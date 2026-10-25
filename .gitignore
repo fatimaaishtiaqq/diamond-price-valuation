@@ -5,7 +5,10 @@ diamond_price_model_full_dataset.pkl
 3 - Car Price Prediction K-Fold Cross Validation/
 *.zip
 *.pdf
+ASSIGNMENT_BREAKDOWN_AND_INSTRUCTIONS.md
+SYSTEM_EXPLANATION_AND_UI_GUIDE.md
 __pycache__/
 .ipynb_checkpoints/
 scratch/
+
 

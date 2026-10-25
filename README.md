@@ -1,4 +1,4 @@
-# GemVal — Enterprise Diamond Valuation Engine
+# GemVal: Enterprise Diamond Valuation Engine
 
 An end-to-end Machine Learning web application predicting diamond market retail value based on internationally recognized gemological standards (the 4Cs: Carat, Cut, Color, Clarity) and 3D facet caliper measurements.
 
