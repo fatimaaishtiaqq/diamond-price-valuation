@@ -589,7 +589,7 @@ if current_page == "home":
 <div class="valuation-label">Estimated Fair Market Retail Value</div>
 <div class="valuation-price">${price_pred:,.2f}</div>
 <div class="valuation-range">
-Confidence Range (10-Fold CV RMSE ±${cv_rmse:,.0f}): <strong style="color: #f8fafc;">${lower_bound:,.2f} — ${upper_bound:,.2f} USD</strong>
+Confidence Range (10-Fold CV RMSE ±${cv_rmse:,.0f}): <strong style="color: #f8fafc;">${lower_bound:,.2f} to ${upper_bound:,.2f} USD</strong>
 </div>
 <div style="font-size: 0.78rem; color: #94a3b8; border-top: 1px solid rgba(148, 163, 184, 0.15); padding-top: 6px;">
 Appraised Price Per Carat: <strong style="color: #38bdf8;">${price_per_carat:,.2f} / ct</strong>
