@@ -1,0 +1,11 @@
+# Ignore large model artifacts (>100MB exceeds GitHub push limit)
+diamond_price_model_full_dataset.pkl
+
+# Ignore teacher reference materials and archives
+3 - Car Price Prediction K-Fold Cross Validation/
+*.zip
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
+scratch/
+
